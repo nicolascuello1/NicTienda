@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $("#slideImagen").click(function(){
-        $("#redes").animate({
+        $("#container").animate({
             height: 'toggle'
         });
     });
